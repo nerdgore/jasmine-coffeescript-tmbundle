@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>expect(${1:target}).not.toHandleWith ${2:eventName}</string>
+	<key>name</key>
+	<string>expect not handle with</string>
+	<key>scope</key>
+	<string>source.coffee.jasmine</string>
+	<key>tabTrigger</key>
+	<string>nthw</string>
+	<key>uuid</key>
+	<string>9F7E2530-AC6F-4C9E-9804-D481332E1C3E</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>expect(${1:target}).not.toBeHidden()</string>
+	<key>name</key>
+	<string>expect not be hidden</string>
+	<key>scope</key>
+	<string>source.coffee.jasmine</string>
+	<key>tabTrigger</key>
+	<string>ntbh</string>
+	<key>uuid</key>
+	<string>EBB56B0B-9038-449C-84EB-370281DCD3FF</string>
+</dict>
+</plist>

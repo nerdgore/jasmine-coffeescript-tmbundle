@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>expect(${1:target}).not.toHaveAttr ${2:attr}</string>
+	<key>name</key>
+	<string>expect not have attr</string>
+	<key>scope</key>
+	<string>source.coffee.jasmine</string>
+	<key>tabTrigger</key>
+	<string>ntha</string>
+	<key>uuid</key>
+	<string>0C50A290-AD51-484D-83DC-2432530D2DA6</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>expect(${1:target}).toHaveBeenPreventedOn ${2:selector}</string>
+	<key>name</key>
+	<string>expect to have been prevented on</string>
+	<key>scope</key>
+	<string>source.coffee.jasmine</string>
+	<key>tabTrigger</key>
+	<string>thpo</string>
+	<key>uuid</key>
+	<string>31CEB720-7BC7-478C-B1DE-854F432A39D0</string>
+</dict>
+</plist>
