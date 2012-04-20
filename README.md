@@ -1,3 +1,7 @@
+This is a tweaked version of Rsim's tweaked Jasmine bundle, modified to be used with jasmine-jquery. See original README contents below.
+
+----
+
 This is a tweaked version Pivotal's original Jasmine bundle for JavaScript to work with CoffeeScript.  See original README contents below.
 
 ----
