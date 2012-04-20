@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toBeSelected()</string>
 	<key>name</key>
-	<string>expect not be selected</string>
+	<string>expect not to be selected</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
 	<string>ntbs</string>
 	<key>uuid</key>
-	<string>00B07A26-CF47-4895-A5EE-B5C7360BD6ED</string>
+	<string><string>00B07A26-CF47-4895-A5EE-B5C7360BD6ED</string></string>
 </dict>
 </plist>

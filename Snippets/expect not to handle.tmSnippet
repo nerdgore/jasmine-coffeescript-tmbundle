@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toHandle ${2:eventName}</string>
 	<key>name</key>
-	<string>expect not handle</string>
+	<string>expect not to handle</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
 	<string>nth</string>
 	<key>uuid</key>
-	<string>B597EDF8-8369-4E86-806E-181AECE58C1F</string>
+	<string><string>B597EDF8-8369-4E86-806E-181AECE58C1F</string></string>
 </dict>
 </plist>

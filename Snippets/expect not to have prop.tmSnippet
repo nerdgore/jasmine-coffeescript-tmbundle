@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toHaveProp ${2:prop}</string>
 	<key>name</key>
-	<string>expect not have prop</string>
+	<string>expect not to have prop</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
 	<string>nthp</string>
 	<key>uuid</key>
-	<string>3740CDE4-07C0-4A44-8D6C-07890423E3DE</string>
+	<string><string>3740CDE4-07C0-4A44-8D6C-07890423E3DE</string></string>
 </dict>
 </plist>

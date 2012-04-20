@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toBeVisible()</string>
 	<key>name</key>
-	<string>expect not be visible</string>
+	<string>expect not to be visible</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
 	<string>ntbv</string>
 	<key>uuid</key>
-	<string>4691F552-3C78-433C-99B7-7FE61A0531C9</string>
+	<string><string>4691F552-3C78-433C-99B7-7FE61A0531C9</string></string>
 </dict>
 </plist>

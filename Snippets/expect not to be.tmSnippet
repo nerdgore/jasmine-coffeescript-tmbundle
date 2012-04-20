@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toBe ${2:selector}</string>
 	<key>name</key>
-	<string>expect not be</string>
+	<string>expect not to be</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
 	<string>ntb</string>
 	<key>uuid</key>
-	<string>D5697735-C18E-49FB-AB87-330D03A4C4AE</string>
+	<string><string>D5697735-C18E-49FB-AB87-330D03A4C4AE</string></string>
 </dict>
 </plist>

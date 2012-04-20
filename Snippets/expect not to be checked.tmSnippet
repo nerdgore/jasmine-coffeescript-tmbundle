@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toBeChecked()</string>
 	<key>name</key>
-	<string>expect not be checked</string>
+	<string>expect not to be checked</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
 	<string>ntbc</string>
 	<key>uuid</key>
-	<string>B5930213-B098-458A-BFCA-E2FB5EDBE0FA</string>
+	<string><string>B5930213-B098-458A-BFCA-E2FB5EDBE0FA</string></string>
 </dict>
 </plist>

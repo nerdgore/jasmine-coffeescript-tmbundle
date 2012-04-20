@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toHaveBeenPreventedOn ${2:selector}</string>
 	<key>name</key>
-	<string>expect not have been prevented on</string>
+	<string>expect not to have been prevented on</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
 	<string>nthpo</string>
 	<key>uuid</key>
-	<string>CF131A42-E3EE-4A06-97CE-A881EFEC3C0C</string>
+	<string><string>CF131A42-E3EE-4A06-97CE-A881EFEC3C0C</string></string>
 </dict>
 </plist>

@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toBeFocused()</string>
 	<key>name</key>
-	<string>expect not be focused</string>
+	<string>expect not to be focused</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
 	<string>ntbd</string>
 	<key>uuid</key>
-	<string>CEEBB8FC-85C8-42AE-B0B9-6C237F1E0813</string>
+	<string><string>CEEBB8FC-85C8-42AE-B0B9-6C237F1E0813</string></string>
 </dict>
 </plist>

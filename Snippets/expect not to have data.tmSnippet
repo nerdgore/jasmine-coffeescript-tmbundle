@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toHaveData ${2:key}</string>
 	<key>name</key>
-	<string>expect not have data</string>
+	<string>expect not to have data</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
 	<string>nthd</string>
 	<key>uuid</key>
-	<string>111FF7E9-7A31-4A3B-B4F1-CD2203E05468</string>
+	<string><string>111FF7E9-7A31-4A3B-B4F1-CD2203E05468</string></string>
 </dict>
 </plist>
