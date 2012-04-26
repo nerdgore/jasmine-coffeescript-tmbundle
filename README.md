@@ -1,3 +1,7 @@
+This is a tweaked version of Forgoten Labours' tweaked Jasmine bundle. See original README contents below.
+
+----
+
 This is a tweaked version of Rsim's tweaked Jasmine bundle, modified to be used with jasmine-jquery. See original README contents below.
 
 ----
@@ -21,5 +25,5 @@ Jasmine is a behavior-driven testing framework for Javascript.  This is a TextMa
 # Bundle Installation
 
     $ cd ~/Library/Application\ Support/TextMate/Bundles/
-    $ git clone git://github.com/forgotten-labors/jasmine-coffeescript-tmbundle.git Jasmine\ CoffeeScript.tmbundle
+    $ git clone git://github.com/davidsevcik/jasmine-coffeescript-tmbundle.git Jasmine\ CoffeeScript.tmbundle
     $ osascript -e 'tell app "TextMate" to reload bundles'
