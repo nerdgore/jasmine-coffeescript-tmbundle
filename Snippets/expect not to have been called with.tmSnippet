@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:target}).wasNotCalledWith ${2:arguments}</string>
+	<string>expect(${1:target}).not.toHaveBeenCalledWith ${2:arguments}</string>
 	<key>name</key>
-	<string>expect was not called with</string>
+	<string>expect not to have been called with</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
-	<string>notscw</string>
+	<string>nhcw</string>
 	<key>uuid</key>
 	<string>5BB5995D-C5EE-418E-9C16-6DFEE7AF250F</string>
 </dict>

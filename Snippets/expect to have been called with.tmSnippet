@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:target}).wasNotCalled()</string>
+	<string>expect(${1:target}).toHaveBeenCalledWith ${2:arguments}</string>
 	<key>name</key>
-	<string>expect was not called</string>
+	<string>expect to have been called with</string>
 	<key>scope</key>
 	<string>source.coffee.jasmine</string>
 	<key>tabTrigger</key>
-	<string>notsc</string>
+	<string>ehcw</string>
 	<key>uuid</key>
-	<string>2811B9A4-CF44-479A-88C8-7FD7AE47126E</string>
+	<string>D31B4547-759B-40DA-A04D-3771817C9B0C</string>
 </dict>
 </plist>
